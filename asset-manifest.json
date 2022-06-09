@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-week-2-currency/static/css/main.e6c13ad2.css",
+    "main.js": "/project-week-2-currency/static/js/main.15b432a4.js",
+    "index.html": "/project-week-2-currency/index.html",
+    "main.e6c13ad2.css.map": "/project-week-2-currency/static/css/main.e6c13ad2.css.map",
+    "main.15b432a4.js.map": "/project-week-2-currency/static/js/main.15b432a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.15b432a4.js"
+  ]
+}
