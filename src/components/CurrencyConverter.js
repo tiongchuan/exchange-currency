@@ -6,6 +6,12 @@ const CurrencyConverter = () => {
     const date = new Date();
     const showDate = `${date.getDate()}/${date.getMonth()+1}/${date.getFullYear()}`
 
+    const [amount, setAmount] = useState(1);
+
+    const handleAmount = (e) => {
+        setAmount(e.target.value)
+    }
+
     return (
         <>
             <div className="container">
@@ -15,7 +21,9 @@ const CurrencyConverter = () => {
                     <p>{showDate}</p>
                 </div>
 
-                
+                <div className="form">
+                    <input type="nunber" value={amount} onChange={handleAmount}></input>
+                </div>
 
 
             </div>
