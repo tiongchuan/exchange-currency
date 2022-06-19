@@ -1,0 +1,17 @@
+.chart {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 10px;
+    margin: 15px 30px 20px 30px;
+    padding: 5px;
+    background-color: rgb(52 52 131 / 90%); 
+    box-shadow: #323040 0px 0px 1px 1px;
+    height: auto;
+    width: 80%;
+}
+
+p2 {
+    font-size: 13px;
+    margin-top: 10px;
+}

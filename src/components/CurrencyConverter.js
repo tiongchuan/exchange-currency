@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import API from "../API";
+import CurrencyChart from "./CurrencyChart"
 import './CurrencyConverter.css'
 
 const CurrencyConverter = () => {
@@ -89,6 +90,7 @@ const CurrencyConverter = () => {
                     <p>1 {input} = {conversionRate} {output}</p>
                 </div>
 
+                <CurrencyChart input={input} output={output}/>
 
             </div>
         </>
