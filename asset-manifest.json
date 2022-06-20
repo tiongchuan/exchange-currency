@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/project-week-2-currency/static/css/main.92085fbb.css",
-    "main.js": "/project-week-2-currency/static/js/main.9d2df197.js",
-    "index.html": "/project-week-2-currency/index.html",
-    "main.92085fbb.css.map": "/project-week-2-currency/static/css/main.92085fbb.css.map",
-    "main.9d2df197.js.map": "/project-week-2-currency/static/js/main.9d2df197.js.map"
+    "main.css": "/exchange-currency/static/css/main.92085fbb.css",
+    "main.js": "/exchange-currency/static/js/main.9d2df197.js",
+    "index.html": "/exchange-currency/index.html",
+    "main.92085fbb.css.map": "/exchange-currency/static/css/main.92085fbb.css.map",
+    "main.9d2df197.js.map": "/exchange-currency/static/js/main.9d2df197.js.map"
   },
   "entrypoints": [
     "static/css/main.92085fbb.css",
