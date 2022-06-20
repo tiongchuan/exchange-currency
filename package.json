@@ -15,7 +15,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://tiongchuan.github.io/project-week-2-currency",
+  "homepage": "https://tiongchuan.github.io/exchange-currency",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
