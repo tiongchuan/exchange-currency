@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import API from "../API";
-import CurrencyChart from "./CurrencyChart"
+import CurrencyChart from "./CurrencyChart.js"
 import './CurrencyConverter.css'
 
 const CurrencyConverter = () => {
