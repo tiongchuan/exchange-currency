@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Line } from 'react-chartjs-2';
-import 'chart.js/auto.esm.js';
+import 'chart.js/auto';
 import API from "../API.js";
 import './CurrencyChart.css'
 
