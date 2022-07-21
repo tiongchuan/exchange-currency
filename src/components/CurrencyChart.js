@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Line } from 'react-chartjs-2';
 import 'chart.js/auto';
-import API from "../API";
+import API from "../API.js";
 import './CurrencyChart.css'
 
 const CurrencyChart = (props) => {
